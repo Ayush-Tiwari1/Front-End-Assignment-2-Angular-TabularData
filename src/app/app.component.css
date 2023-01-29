@@ -1,0 +1,10 @@
+.main-container{
+    background-color: rgb(193, 255, 193);
+    align-items: center;
+    justify-content: center;
+    margin:auto;
+    padding:50px 50px;
+}
+table{
+    background-color: aliceblue;
+}
